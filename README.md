@@ -12,7 +12,7 @@ Thia is a hardware project that can switch any kind of load bank like capacitor 
 
 Things like money,weight,volume, if they are measured
 or counted with respect to some standered value then 
-the standered values are taken in the ratio of ```1:2:2:5.```
+the standered values are taken in the ratio of ```1:2:2:5```
 
 ```
 like money are made as-
